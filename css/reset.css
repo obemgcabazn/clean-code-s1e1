@@ -1,0 +1,37 @@
+*,
+::before,
+::after {
+  box-sizing: border-box;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  list-style: none;
+  overflow: hidden;
+}
+
+li > * {
+  vertical-align: middle;
+}
+
+input, button {
+  outline: none;
+}
+
+button {
+  background: none;
+  border: 0;
+  cursor: pointer;
+}
+
+h3, label, input {
+  margin: 0;
+}
+
+label {
+  display: block;
+}

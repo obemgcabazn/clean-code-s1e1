@@ -1,0 +1,11 @@
+:root {
+  --gray-800: #333;
+  --gray-600: #3a3a3a;
+  --gray-500: #888;
+  --gray-200: #ddd;
+  --gray-100: #eee;
+  --gray-50: #f8f8f8;
+
+  --font-family: Lato, sans-serif;
+  --font-cursive: fantasy, cursive;
+}
