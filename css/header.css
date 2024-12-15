@@ -1,0 +1,17 @@
+.header {
+  text-align: right;
+}
+
+.header__img {
+  width: 100%;
+}
+
+.header__more-info {
+  font-family: var(--font-cursive)
+}
+
+@media (max-width: 768px) {
+  .header {
+    text-align: center;
+  }
+}
